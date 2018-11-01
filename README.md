@@ -19,6 +19,7 @@ Existem muita gente tentando contribuir para um brasil melhor, eu não sou o pri
 - [Ninguém fica pra trás](https://www.ninguemficapratras.org/)
 - [Fast food da política](https://www.facebook.com/fastfooddapolitica/)
 - [Serenata de amor](https://serenata.ai/)
+- [Ponte Jornalismo](https://ponte.org/)
 
 # Contra o que resistimos
 
