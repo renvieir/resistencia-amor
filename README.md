@@ -34,3 +34,16 @@ Alguns ataques à liberdade já acontecendo atualmente contra:
 ## Destruição do meio ambiente
 
 - [Fusão do Ministérios da Agricultura e Meio Ambiente](http://agenciabrasil.ebc.com.br/politica/noticia/2018-10/maggi-lamenta-fusao-de-pastas-da-agricultura-e-meio-ambiente)
+
+# O que apoiamos
+
+## Informação verdadeira
+
+Em tempos atuais que somos inundados de notícias falsas precisamos saber nos informar através de jornalismo investigativo, checagem de fatos e mídias alternativas:
+
+- [The intercept](https://theintercept.com/)
+- [Agência Pública](https://apublica.org/)
+- [Ponte](https://ponte.org/)
+- [Nexo](https://www.nexojornal.com.br/)
+- [Aos Fatos](https://aosfatos.org/)
+- [CMI](https://midiaindependente.org/)
