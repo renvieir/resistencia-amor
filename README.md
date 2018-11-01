@@ -13,7 +13,7 @@ Essas são as minhas idéias ainda não finalizadas, me ajude a construir esse p
 
 # Projetos Relacionados
 
-Existem muita gente tentando contribuir para um brasil melhor, eu não sou o primeiro, algumas das iniciativas que eu conheço no momento são as seguintes:
+Existe muita gente tentando contribuir para um Brasil melhor. Eu não sou o primeiro, algumas das iniciativas que eu conheço no momento são as seguintes:
 
 - [Vítimas da intolerância](https://www.vitimasdaintolerancia.org/)
 - [Ninguém fica pra trás](https://www.ninguemficapratras.org/)
@@ -24,7 +24,7 @@ Existem muita gente tentando contribuir para um brasil melhor, eu não sou o pri
 
 # Contra o que resistimos
 
-## O cerceamento da liberdade de expressão
+## O cerseamento da liberdade de expressão
 
 Alguns ataques à liberdade já acontecendo atualmente contra:
 - [Professores](http://agenciabrasil.ebc.com.br/educacao/noticia/2018-10/mp-vai-investigar-deputada-que-pediu-o-monitoramento-de-professores)
