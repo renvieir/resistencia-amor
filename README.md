@@ -30,4 +30,4 @@ Alguns ataques à liberdade já acontecendo atualmente contra:
 
 ## Destruição do meio ambiente
 
-[Fusão do Ministérios da Agricultura e Meio Ambiente](http://agenciabrasil.ebc.com.br/politica/noticia/2018-10/maggi-lamenta-fusao-de-pastas-da-agricultura-e-meio-ambiente)
+- [Fusão do Ministérios da Agricultura e Meio Ambiente](http://agenciabrasil.ebc.com.br/politica/noticia/2018-10/maggi-lamenta-fusao-de-pastas-da-agricultura-e-meio-ambiente)
