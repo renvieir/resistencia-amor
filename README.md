@@ -25,16 +25,17 @@ Existe muita gente tentando contribuir para um Brasil melhor. Eu não sou o prim
 
 # Contra o que resistimos
 
-## O cerseamento da liberdade de expressão
+## O cerceamento da liberdade de expressão
 
 Alguns ataques à liberdade já acontecendo atualmente contra:
+- [Imprensa](https://www.terra.com.br/noticias/brasil/politica/entidades-condenam-ameaca-de-bolsonaro-de-punir-imprensa-com-corte-de-publicidade-oficial,2e219d2c6ada6652077164bdb932cb47z81g79do.html)
 - [Professores](http://agenciabrasil.ebc.com.br/educacao/noticia/2018-10/mp-vai-investigar-deputada-que-pediu-o-monitoramento-de-professores)
 - [Protestos de rua](https://brasil.elpais.com/brasil/2017/06/27/politica/1498596183_811422.html)
 - [Universidades](https://www1.folha.uol.com.br/cotidiano/2018/10/universidades-de-todo-o-pais-sao-alvo-de-acoes-policiais-e-da-justica-eleitoral.shtml)
 
 ## Destruição do meio ambiente
 
-- [Fusão do Ministérios da Agricultura e Meio Ambiente](http://agenciabrasil.ebc.com.br/politica/noticia/2018-10/maggi-lamenta-fusao-de-pastas-da-agricultura-e-meio-ambiente)
+- [Fusão dos Ministérios da Agricultura e Meio Ambiente](http://agenciabrasil.ebc.com.br/politica/noticia/2018-10/maggi-lamenta-fusao-de-pastas-da-agricultura-e-meio-ambiente)
 
 # O que apoiamos
 
