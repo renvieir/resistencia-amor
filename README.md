@@ -24,7 +24,7 @@ Existem muita gente tentando contribuir para um brasil melhor, eu não sou o pri
 
 # Contra o que resistimos
 
-## O cerseamento da liberdade de expressão
+## O cerceamento da liberdade de expressão
 
 Alguns ataques à liberdade já acontecendo atualmente contra:
 - [Professores](http://agenciabrasil.ebc.com.br/educacao/noticia/2018-10/mp-vai-investigar-deputada-que-pediu-o-monitoramento-de-professores)
