@@ -27,6 +27,7 @@ Existem muita gente tentando contribuir para um brasil melhor, eu não sou o pri
 Alguns ataques à liberdade já acontecendo atualmente contra:
 - [Professores](http://agenciabrasil.ebc.com.br/educacao/noticia/2018-10/mp-vai-investigar-deputada-que-pediu-o-monitoramento-de-professores)
 - [Protestos de rua](https://brasil.elpais.com/brasil/2017/06/27/politica/1498596183_811422.html)
+- [Universidades](https://www1.folha.uol.com.br/cotidiano/2018/10/universidades-de-todo-o-pais-sao-alvo-de-acoes-policiais-e-da-justica-eleitoral.shtml)
 
 ## Destruição do meio ambiente
 
