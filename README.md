@@ -1,5 +1,5 @@
 # Objetivo
-Quando as coisas estão ruins precisamos nos fortalecer no amor para superar as adversidades. Precisamos de uma eduação libertadora nos moldes de Paulo Freire.
+Quando as coisas estão ruins precisamos nos fortalecer no amor para superar as adversidades. Precisamos de atitudes libertadoras nos moldes de Paulo Freire.
 
 O meu objetivo é contribuir para que as pessoas possam se unir, formar uma rede acolhimento, se fortalecer e trazer novas pessoas para essa resistência, e quem sabe assim possamos vencer o ódio.
 
