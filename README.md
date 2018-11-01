@@ -38,7 +38,7 @@ Alguns ataques à liberdade já acontecendo atualmente contra:
 
 ## Informação verdadeira
 
-Em tempos atuais que somo inundados de notícias falsas precisamos saber nos informar através de jornalismo investigativo, checagem de fatos e mídias alternativas:
+Em tempos atuais que somos inundados de notícias falsas precisamos saber nos informar através de jornalismo investigativo, checagem de fatos e mídias alternativas:
 
 - [The intercept](https://theintercept.com/)
 - [Agência Pública](https://apublica.org/)
