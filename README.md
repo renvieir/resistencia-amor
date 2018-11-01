@@ -7,7 +7,7 @@ Como podemos fazer isso?
 
 - Criar uma lista de projetos, movimentos, grupos, lugares de acolhimento existentes
 - Coletar informações e apresentar didaticamente para que as pessoas entendam os perigos que estamos enfrentando como: aumento da violência, destruição do meio ambiente, cerceamento da liberdade de expressão, agravo da situação econômica, fim de direitos sociais, etc
-Tornar fácil para todas as pessoas, mesmo sem conhecimento de computação colaborar com o projeto
+- Tornar fácil para todas as pessoas, mesmo sem conhecimento de computação colaborar com o projeto
 Essas são as minhas idéias ainda não finalizadas, me ajude a construir esse projeto, veja a sessão de [issues](https://github.com/renvieir/resistencia-amor/issues)
 
 # Projetos Relacionados
@@ -26,3 +26,7 @@ Existem muita gente tentando contribuir para um brasil melhor, eu não sou o pri
 Alguns ataques à liberdade já acontecendo atualmente contra:
 - [Professores](http://agenciabrasil.ebc.com.br/educacao/noticia/2018-10/mp-vai-investigar-deputada-que-pediu-o-monitoramento-de-professores)
 - [Protestos de rua](https://brasil.elpais.com/brasil/2017/06/27/politica/1498596183_811422.html)
+
+## Destruição do meio ambiente
+
+[Fusão do Ministérios da Agricultura e Meio Ambiente](http://agenciabrasil.ebc.com.br/politica/noticia/2018-10/maggi-lamenta-fusao-de-pastas-da-agricultura-e-meio-ambiente)
