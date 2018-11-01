@@ -7,7 +7,8 @@ Como podemos fazer isso?
 
 - Criar uma lista de projetos, movimentos, grupos, lugares de acolhimento existentes
 - Coletar informações e apresentar didaticamente para que as pessoas entendam os perigos que estamos enfrentando como: aumento da violência, destruição do meio ambiente, cerceamento da liberdade de expressão, agravo da situação econômica, fim de direitos sociais, etc
-- Tornar fácil para todas as pessoas, mesmo sem conhecimento de computação colaborar com o projeto
+- Tornar fácil para todas as pessoas, mesmo sem conhecimento de computação colaborar com o projeto.
+
 Essas são as minhas idéias ainda não finalizadas, me ajude a construir esse projeto, veja a sessão de [issues](https://github.com/renvieir/resistencia-amor/issues)
 
 # Projetos Relacionados
