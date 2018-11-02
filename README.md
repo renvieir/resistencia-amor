@@ -22,6 +22,7 @@ Existe muita gente tentando contribuir para um Brasil melhor. Eu não sou o prim
 - [Ponte Jornalismo](https://ponte.org/)
 - [elenaovainosmatar](https://www.instagram.com/elenaovainosmatar)
 - [Onde Fui Roubado](http://www.ondefuiroubado.com.br)
+- [Educação faz meu gênero](http://www.educacaofazmeugenero.beta.org.br/)
 
 # Contra o que resistimos
 
