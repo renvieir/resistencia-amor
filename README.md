@@ -44,7 +44,7 @@ Alguns ataques à liberdade já acontecendo atualmente contra:
 
 Em tempos atuais que somos inundados de notícias falsas precisamos saber nos informar através de jornalismo investigativo, checagem de fatos e mídias alternativas:
 
-- [The intercept](https://theintercept.com/)
+- [The intercept](https://theintercept.com/brasil/)
 - [Agência Pública](https://apublica.org/)
 - [Ponte](https://ponte.org/)
 - [Nexo](https://www.nexojornal.com.br/)
