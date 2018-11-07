@@ -50,3 +50,4 @@ Em tempos atuais que somos inundados de notícias falsas precisamos saber nos in
 - [Nexo](https://www.nexojornal.com.br/)
 - [Aos Fatos](https://aosfatos.org/)
 - [CMI](https://midiaindependente.org/)
+- [Outras Palavras](https://outraspalavras.net/)
